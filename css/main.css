@@ -1,0 +1,113 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-color {
+    background: #152850;
+}
+
+.iconify {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 137px;
+    top: 69px;
+}
+
+.titles {
+    position: absolute;
+    width: 105px;
+    height: 28px;
+    left: 135px;
+    top: 185px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+.text {
+    position: absolute;
+    width: 260px;
+    height: 14px;
+    left: 57px;
+    top: 226px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.ellipse {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 161px;
+    top: 256px;
+    border-radius: 50%;
+    background: #FDD083;
+}
+
+.harry-potter {
+    position: absolute;
+    width: 40.7px;
+    height: 22.61px;
+    left: 167px;
+    top: 268px;
+}
+
+.edition {
+    position: absolute;
+    width: 16px;
+    height: 5px;
+    left: 179px;
+    top: 291px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 4px;
+    line-height: 5px;
+
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.play-button {
+    position: absolute;
+    width: 297px;
+    height: 43px;
+    left: 39px;
+    top: 337px;
+
+    background: #25A8CB;
+    border-radius: 20px;
+}
+
+.content-text {
+    position: absolute;
+    width: 27px;
+    height: 16px;
+    
+    left: 135px;
+    top: 13px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #FFFFFF;
+}
