@@ -6,6 +6,10 @@ html {
     background: #152850;
 }
 
+.container {
+    margin-left: 50%;
+}
+
 .iconify {
     position: absolute;
     width: 100px;
@@ -110,4 +114,121 @@ html {
     line-height: 16px;
 
     color: #FFFFFF;
+}
+
+.titles-question {
+    position: absolute;
+    width: 105px;
+    height: 28px;
+    left: 135px;
+    top: 23px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+.text-question {
+    position: absolute;
+    width: 134px;
+    height: 14px;
+    left: 121px;
+    top: 54px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+.line {
+    position: absolute;
+    width: 375px;
+    height: 12px;
+    left: 0px;
+    top: 86px;
+
+    background: #FDD083;
+}
+
+.question-container {
+    position: absolute;
+    width: 297px;
+    height: 112px;
+    left: 39px;
+    top: 135px;
+
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+.question-text {
+    position: relative;
+    text-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 15%;
+
+    color: #000000;
+}
+
+.question-button-1 {
+    position: absolute;
+    width: 297px;
+    height: 43px;
+    left: 39px;
+    top: 277px;
+
+    background: #193469;
+    border-radius: 20px;
+    color: white;
+}
+
+.question-button-2 {
+    position: absolute;
+    width: 297px;
+    height: 43px;
+    left: 39px;
+    top: 339px;
+
+    background: #193469;
+    border-radius: 20px;
+    color: white;
+
+}
+
+.question-button-3 {
+    position: absolute;
+    width: 297px;
+    height: 43px;
+    left: 39px;
+    top: 401px;
+
+    background: #193469;
+    border-radius: 20px;
+    color: white;
+}
+
+.question-button-4 {
+    position: absolute;
+    width: 297px;
+    height: 43px;
+    left: 39px;
+    top: 463px;
+
+    background: #193469;
+    border-radius: 20px;
+    color: white;
 }
